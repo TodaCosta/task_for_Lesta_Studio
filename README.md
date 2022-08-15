@@ -20,6 +20,9 @@ def isEven(value):
 (Имеет строго необходимый нам функционал, подходит под принцип KISS (большинство систем работают лучше всего, если они остаются простыми, а не усложняются), так же есть удобный функционал для работы очереди с приорететом: модуль queue.PriorityQueue()).
 
 ```python
+from collections import deque
+import queue
+
 //класс deque() модуля collections возвращает новый объект deque()
 dq = deque([1, 8, 9])
 print(*dq) # 1 8 9
@@ -98,6 +101,7 @@ print(a.return_list()) # [4, 5]
 <br/>
 
 ```python
+import random
 def rec(s):
     if len(s) <= 1:
         return s
