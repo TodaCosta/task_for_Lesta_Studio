@@ -114,24 +114,6 @@ def rec(s):
 print(rec([1,3,1,9,3])) # [1, 1, 3, 3, 9]
 ```
 
-##### Мои полноценные проекты.
 
-###### -Мой сайт на Django с базой данных MySql:
-https://irina-brezgunova.ru
-Создан на основе задания с сайта фриланса: нужно было сделать базу учета небольшого фитнес клуба, я решила сделать сайт, где весь учёт ведётся в админ-панели, а так же в ней меняется информация на сайте ( https://irina-brezgunova.ru/admin/ Логин/пароль для входа в админ панель: test / st12345ZN). Деплой на reg.ru через putty и FarManager, база данных MySQL). Адаптивная вёрстка на flex.
-Папка с проектом на Git: https://github.com/TodaCosta/django-MySql-Active
+Резюме на  Хабр Карьере: https://career.habr.com/swee1 
 
-###### -Простой сайт на бесплатном хостинге от GitHub
-https://adaptivegrid.github.io
-для демонстрации адаптивной вёрстки на Grid с анимациями и слайдером фото. Переход по ссылкам на теги внутри страницы, отдельная страница ForHR с более подробным описанием что было сделано на сайте.
-Проект на Git: https://github.com/TodaCosta/HomeForest-adaptiveGrid .
-
-<br/>
-
-Резюме hh: https://spb.hh.ru/resume/7ce85113ff0b2855b20039ed1f66374a76497a
-<br/>
-Резюме (в нормальном виде) на  Хабр Карьере: https://career.habr.com/swee1 
-<br/>(так же можно скачать в PDF, если Вы зарегистрированы)
-<br/>
-Резюме в формате PDF: https://resumebrezgunovairina.tiiny.site
-<br/>
